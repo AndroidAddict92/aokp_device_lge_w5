@@ -1,0 +1,2 @@
+add_lunch_combo aokp_w5-userdebug
+add_lunch_combo aokp_w5-eng
