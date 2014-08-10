@@ -1,4 +1,4 @@
-android_device_lge_w5
+aokp_device_lge_w5
 =====================
 
-cwm for the LG MS323 (L70)
+Work In Progress -- AOKP for the LG MS323 (L70)
